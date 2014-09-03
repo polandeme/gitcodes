@@ -103,7 +103,7 @@ $().ready(function () {
 // 宣布失败，原因使用promise 不太熟练，递归。setInterval 取消条件？。
 // 过一段时间在回过头来看吧 20140903 0:48
 // 下一步用爬虫爬去github上现有的图分析
-// 补充基础知识，学习promise规范 jquery defferded
+// 补充基础知识，学习promise规范 jquery defferded()
 		
 	})
 })
